@@ -1,0 +1,167 @@
+
+
+main{
+    position: relative;
+    margin-bottom: auto;
+    width: 82%;
+    height: auto;
+    margin: auto;}
+
+
+
+
+p{
+    position: relative;
+    background-color: #b3ea1d;
+    width:  95.85%;
+    height: 120px;
+    margin-top:  0px;
+}
+#fundrose{
+    position: absolute;
+    top: 120px;
+    background-color: #c57371;
+    color: #c57371;
+    width: 95.85%;
+    height: 1100px;
+    margin-top:0px;}
+
+#fundverm{
+    position: absolute;
+    top: 135px;
+    background-color: #be1010;
+    color: #be1010;
+    width:  95.85%;
+    height: 320px;
+    margin-top:0px;}
+
+#rosa1{
+    position:absolute ;
+    top:160px;
+   left:40px;
+    width:500px ;
+    height:250px ;
+    background-color: #ba8a8a;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-family: Arial;}
+
+#rosa2{
+    position:absolute ;
+    top:160px;
+   left:635px;
+    width:500px ;
+    height:250px ;
+    background-color: #ba8a8a;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-family: Arial;}
+
+#fundaz{
+    position: absolute;
+    top: 470px;
+    background-color: #81e1e0;
+    color: #81e1e0;
+    width:  95.85%;
+    height: 350px;
+    margin-top:0px;}
+
+#branca1{
+    position:absolute ;
+    top:510px;
+    left:35px;
+    width:20% ;
+    height:265px ;
+    background-image: url(IMG3/guitarrinha.jpg);
+    background-position: center;
+    border-radius: 10px;
+    float: left;
+    align-items: center;
+    }
+
+#branca2{
+    position:relative ;
+    top:375px;
+    left:330px;
+    width:20% ;
+    height:265px ;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-family: Arial;
+    border-radius: 10px;
+    float: left;}
+
+#branca3{
+    position:relative ;
+    top:375px;
+    left:377px;
+    width:20% ;
+    height:265px ;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-family: Arial;
+    border-radius: 10px;
+    float: left;}
+
+#branca4{
+    position:relative ;
+    top:375px;
+    left:430px;
+    width:20% ;
+    height:265px ;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-family: Arial;
+    border-radius: 10px;
+    float: left;}    
+
+#laranja{
+    position: absolute;
+    top: 835px;
+    background-color:#ba5511;
+    color: black;
+    width: 1175px;
+    height: 350px;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-top:0px;
+    font-family: Arial;}
+
+#amarelo{
+    position: absolute;
+    top: 1210px;
+    background-color:#ffff01;
+    color: #ffff01;
+    width: 1175px;
+    height: 250px;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-top:0px;
+    font-family: Arial;}
+
+#azul{
+    position:absolute ;
+    top:1250px;
+   left:40px;
+    width:500px ;
+    height:200px ;
+    background-color: #191973;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-family: Arial;}
+
+#verde{
+    position:absolute ;
+    top:1250px;
+   left:635px;
+    width:500px ;
+    height:200px ;
+    background-color: #40c2c2;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-family: Arial;}
+
+ 

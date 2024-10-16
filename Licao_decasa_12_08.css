@@ -1,0 +1,75 @@
+#fundo{
+    position: relative;
+    width: 1000px;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+}
+
+
+
+
+#camada1{
+    position: relative;
+    width:1000px ;
+    height:100px ;
+    background-color:#20B1AA;
+    text-align: center;
+    font-size: 35px;}
+
+#camada2{
+    position: relative;
+    width:1000px ;
+    height:500px ;
+    background-color:#A3B5CD;}
+
+#camada3{
+    position:absolute ;
+    top:100px;
+   left:130px;
+    width:700px ;
+    height:500px ;
+    background-color:#AAAAAA;}
+
+#camada4{
+    position: relative;
+    width:1000px ;
+    height:30px ;
+    background-color:#20B2FF;
+    float:left;}
+
+#camada5{
+    top:110px;
+    color: white;
+position: absolute;
+background-color: rgb(255, 255, 255);
+left: 840px;
+width:150px;
+height: 110px;
+margin-left: 1px;
+float:left;
+z-index: 5;}
+
+#camada6{
+    top:225px;
+    color: rgb(255, 255, 255);
+position: absolute;
+background-color: rgb(255, 255, 255);
+left: 840px;
+width:150px;
+height: 110px;
+margin-left: 1px;
+float:left;
+z-index: 4;}
+
+#camada7{
+position: absolute;
+z-index: 5;
+top:400px;
+   left:700px;
+   width: 160px;
+   height: 160px;
+}
+
+
+

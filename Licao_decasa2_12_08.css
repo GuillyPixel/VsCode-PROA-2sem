@@ -1,0 +1,129 @@
+#fundo{
+    position: relative;
+    width: 1000px;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    margin: auto;}
+
+#camada1{
+    position: relative;
+    width:1000px ;
+    height:70px ;
+    background-color:#CDFF00;
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial;
+    font-weight: bold;}
+
+#camada2{
+    position: relative;
+    width:325px ;
+    height:520px ;
+    background-color:#A7FFFF;
+    font-size: 15px;
+    font-family: Arial;}
+
+#camada3{
+    top:90px;
+    color: rgb(81, 81, 81);
+position: absolute;
+background-color: rgb(255, 255, 255);
+left: 10px;
+width:300px;
+height: 210px;
+float:left;
+z-index: 3;
+font-size: 15px;
+font-family: Arial;}
+
+#camada4{
+    top:320px;
+    color: rgb(81, 81, 81);
+position: absolute;
+background-color: rgb(255, 255, 255);
+left: 10px;
+width:300px;
+height: 210px;
+float:left;
+z-index: 3;
+font-size: 15px;
+font-weight: lighter;
+    font-family: Arial;}
+
+#camada5{
+    top:70px;
+    color: rgb(44, 44, 44);
+position: absolute;
+background-color: #7E43FF;
+left: 325px;
+width:675px;
+height: 520px;
+float:left;
+z-index: 3;
+font-size: 15px;
+font-family: Arial;}
+
+#camada6{
+    top:95px;
+    color: rgb(44, 44, 44);
+position: absolute;
+background-color: #ffffff;
+left: 335px;
+width:655px;
+height: 500px;
+float:left;
+z-index: 3;
+font-size: 15px;
+font-family: Arial;}
+
+#camada7{
+    top:115px;
+    color: rgb(21, 21, 21);
+position: absolute;
+background-color: #CDFDFD;
+left: 335px;
+width:655px;
+height: 35px;
+float:left;
+z-index: 3;
+font-size: 10px;
+font-family: Arial;
+text-align: center;}
+
+#camada8{
+    top:160px;
+    color: rgb(255, 255, 255);
+position: absolute;
+background-color: #CB6566;
+left: 335px;
+width:655px;
+height: 170px;
+float:left;
+z-index: 3;
+font-size: 14px;
+font-family: Arial;}
+
+#camada9{
+    top:340px;
+    color: rgb(0, 0, 0);
+position: absolute;
+background-color: #CCCCFE;
+left: 335px;
+width:655px;
+height: 240px;
+float:left;
+z-index: 3;
+font-size: 14px;
+font-family: Arial;}
+
+#camada10{
+    top: 590px;
+    position: absolute;
+    width:1000px ;
+    height:70px ;
+    background-color:#320000;
+    font-size: 15px;
+    font-family: Arial;
+    z-index: 10;
+    color: #ffffff;
+}

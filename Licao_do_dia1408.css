@@ -1,0 +1,142 @@
+main{
+    position: relative;
+    width: 90%;
+    height: auto;
+    margin: auto;}
+
+header{
+    position: relative;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-family: helvetica;
+    font-weight: lighter;}
+
+nav{
+    position: relative;
+    width: 100%;
+    height: 35px;
+    background-color: #000099;
+    color: white;
+    font-family: Arial;
+    font-size: 35px;}
+
+#nav2{
+    position: relative;
+    width: 20%;
+    height: 500px;
+    background-color: #c8c9a9;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+    font-size: 35px;
+    float: left;}
+
+section{
+    position: relative;
+    background-color: #ffccff;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+    font-size: 35px;
+    float: left;
+    width: 60%;
+    height: 500px;}
+
+#two{
+    position: relative;
+    margin: auto;
+    background-color:white;
+    color: black;
+    font-family: Arial;
+    text-align: center;
+    font-size: 20px;
+    clear: left;
+    width: 95%;
+    height: 7px;}
+
+div{
+    position: relative;
+    margin: auto;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+    font-size: 40px;
+    background-color: #996600;
+    margin-top: 7px;
+    width: 95%;
+    height: 170px;}
+
+p{
+    position: relative;
+    margin: auto;
+    color: black;
+    font-family: Arial;
+    font-size: 15px;
+    text-align: left;
+    background-color:#ccccff;
+    margin-top: 7px;
+    width: 95%;
+    height: 100px;}
+
+#div1{
+    position: relative;
+    margin-left: 15px;
+    color: white;
+    font-family: Arial;
+    font-size: 35px;
+    text-align: center;
+    background-color:#666666;
+    margin-top: 7px;
+    width: 30%;
+    height: 110px;
+    float: left;}
+
+#div2{
+    position: relative;
+    margin-left: 15px;
+    color: white;
+    font-family: Arial;
+    font-size: 35px;
+    text-align: center;
+    background-color:#666666;
+    margin-top: 7px;
+    width: 30%;
+    height: 110px;
+    float: left;}
+
+#div3{
+    position: relative;
+    margin-left: 15px;
+    color: white;
+    font-family: Arial;
+    font-size: 35px;
+    text-align: center;
+    background-color:#666666;
+    margin-top: 7px;
+    width: 30%;
+    height: 110px;
+    float: left;}
+
+aside{
+    position: relative;
+    width: 20%;
+    height: 500px;
+    background-color:#ff00ff;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+    font-size: 35px;
+    float: left;}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: lighter;
+    font-family: helvetica;}
